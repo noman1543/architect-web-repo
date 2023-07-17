@@ -212,6 +212,13 @@ main {
     width: 165px;
 }
 
+/*footer-title style*/
+.footer-title {
+    font-size: 1.25rem;
+    color: #727272;
+    text-align: center;
+}
+
 /*media query style*/
 /*for mobile*/
 
